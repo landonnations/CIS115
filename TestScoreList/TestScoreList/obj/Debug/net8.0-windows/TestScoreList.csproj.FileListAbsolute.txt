@@ -1,0 +1,17 @@
+C:\Users\landn\source\repos\TestScoreList\TestScoreList\bin\Debug\net8.0-windows\TestScoreList.exe
+C:\Users\landn\source\repos\TestScoreList\TestScoreList\bin\Debug\net8.0-windows\TestScoreList.deps.json
+C:\Users\landn\source\repos\TestScoreList\TestScoreList\bin\Debug\net8.0-windows\TestScoreList.runtimeconfig.json
+C:\Users\landn\source\repos\TestScoreList\TestScoreList\bin\Debug\net8.0-windows\TestScoreList.dll
+C:\Users\landn\source\repos\TestScoreList\TestScoreList\bin\Debug\net8.0-windows\TestScoreList.pdb
+C:\Users\landn\source\repos\TestScoreList\TestScoreList\obj\Debug\net8.0-windows\TestScoreList.Form1.resources
+C:\Users\landn\source\repos\TestScoreList\TestScoreList\obj\Debug\net8.0-windows\TestScoreList.csproj.GenerateResource.cache
+C:\Users\landn\source\repos\TestScoreList\TestScoreList\obj\Debug\net8.0-windows\TestScoreList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\landn\source\repos\TestScoreList\TestScoreList\obj\Debug\net8.0-windows\TestScoreList.AssemblyInfoInputs.cache
+C:\Users\landn\source\repos\TestScoreList\TestScoreList\obj\Debug\net8.0-windows\TestScoreList.AssemblyInfo.cs
+C:\Users\landn\source\repos\TestScoreList\TestScoreList\obj\Debug\net8.0-windows\TestScoreList.csproj.CoreCompileInputs.cache
+C:\Users\landn\source\repos\TestScoreList\TestScoreList\obj\Debug\net8.0-windows\TestScoreList.dll
+C:\Users\landn\source\repos\TestScoreList\TestScoreList\obj\Debug\net8.0-windows\refint\TestScoreList.dll
+C:\Users\landn\source\repos\TestScoreList\TestScoreList\obj\Debug\net8.0-windows\TestScoreList.pdb
+C:\Users\landn\source\repos\TestScoreList\TestScoreList\obj\Debug\net8.0-windows\TestScoreList.genruntimeconfig.cache
+C:\Users\landn\source\repos\TestScoreList\TestScoreList\obj\Debug\net8.0-windows\ref\TestScoreList.dll
+C:\Users\landn\source\repos\TestScoreList\TestScoreList\obj\Debug\net8.0-windows\TestScoreList.Properties.Resources.resources
