@@ -1,0 +1,16 @@
+C:\Users\landn\source\repos\Twitter\Twitter\bin\Debug\net8.0-windows\Twitter.exe
+C:\Users\landn\source\repos\Twitter\Twitter\bin\Debug\net8.0-windows\Twitter.deps.json
+C:\Users\landn\source\repos\Twitter\Twitter\bin\Debug\net8.0-windows\Twitter.runtimeconfig.json
+C:\Users\landn\source\repos\Twitter\Twitter\bin\Debug\net8.0-windows\Twitter.dll
+C:\Users\landn\source\repos\Twitter\Twitter\bin\Debug\net8.0-windows\Twitter.pdb
+C:\Users\landn\source\repos\Twitter\Twitter\obj\Debug\net8.0-windows\Twitter.Form1.resources
+C:\Users\landn\source\repos\Twitter\Twitter\obj\Debug\net8.0-windows\Twitter.csproj.GenerateResource.cache
+C:\Users\landn\source\repos\Twitter\Twitter\obj\Debug\net8.0-windows\Twitter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\landn\source\repos\Twitter\Twitter\obj\Debug\net8.0-windows\Twitter.AssemblyInfoInputs.cache
+C:\Users\landn\source\repos\Twitter\Twitter\obj\Debug\net8.0-windows\Twitter.AssemblyInfo.cs
+C:\Users\landn\source\repos\Twitter\Twitter\obj\Debug\net8.0-windows\Twitter.csproj.CoreCompileInputs.cache
+C:\Users\landn\source\repos\Twitter\Twitter\obj\Debug\net8.0-windows\Twitter.dll
+C:\Users\landn\source\repos\Twitter\Twitter\obj\Debug\net8.0-windows\refint\Twitter.dll
+C:\Users\landn\source\repos\Twitter\Twitter\obj\Debug\net8.0-windows\Twitter.pdb
+C:\Users\landn\source\repos\Twitter\Twitter\obj\Debug\net8.0-windows\Twitter.genruntimeconfig.cache
+C:\Users\landn\source\repos\Twitter\Twitter\obj\Debug\net8.0-windows\ref\Twitter.dll
