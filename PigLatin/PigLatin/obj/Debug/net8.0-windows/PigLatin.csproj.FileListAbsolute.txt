@@ -1,0 +1,16 @@
+C:\Users\landn\source\repos\PigLatin\PigLatin\bin\Debug\net8.0-windows\PigLatin.exe
+C:\Users\landn\source\repos\PigLatin\PigLatin\bin\Debug\net8.0-windows\PigLatin.deps.json
+C:\Users\landn\source\repos\PigLatin\PigLatin\bin\Debug\net8.0-windows\PigLatin.runtimeconfig.json
+C:\Users\landn\source\repos\PigLatin\PigLatin\bin\Debug\net8.0-windows\PigLatin.dll
+C:\Users\landn\source\repos\PigLatin\PigLatin\bin\Debug\net8.0-windows\PigLatin.pdb
+C:\Users\landn\source\repos\PigLatin\PigLatin\obj\Debug\net8.0-windows\PigLatin.Form1.resources
+C:\Users\landn\source\repos\PigLatin\PigLatin\obj\Debug\net8.0-windows\PigLatin.csproj.GenerateResource.cache
+C:\Users\landn\source\repos\PigLatin\PigLatin\obj\Debug\net8.0-windows\PigLatin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\landn\source\repos\PigLatin\PigLatin\obj\Debug\net8.0-windows\PigLatin.AssemblyInfoInputs.cache
+C:\Users\landn\source\repos\PigLatin\PigLatin\obj\Debug\net8.0-windows\PigLatin.AssemblyInfo.cs
+C:\Users\landn\source\repos\PigLatin\PigLatin\obj\Debug\net8.0-windows\PigLatin.csproj.CoreCompileInputs.cache
+C:\Users\landn\source\repos\PigLatin\PigLatin\obj\Debug\net8.0-windows\PigLatin.dll
+C:\Users\landn\source\repos\PigLatin\PigLatin\obj\Debug\net8.0-windows\refint\PigLatin.dll
+C:\Users\landn\source\repos\PigLatin\PigLatin\obj\Debug\net8.0-windows\PigLatin.pdb
+C:\Users\landn\source\repos\PigLatin\PigLatin\obj\Debug\net8.0-windows\PigLatin.genruntimeconfig.cache
+C:\Users\landn\source\repos\PigLatin\PigLatin\obj\Debug\net8.0-windows\ref\PigLatin.dll
