@@ -1,0 +1,16 @@
+C:\Users\landn\source\repos\FineForOverdueBooks\FineForOverdueBooks\bin\Debug\net8.0-windows\FineForOverdueBooks.exe
+C:\Users\landn\source\repos\FineForOverdueBooks\FineForOverdueBooks\bin\Debug\net8.0-windows\FineForOverdueBooks.deps.json
+C:\Users\landn\source\repos\FineForOverdueBooks\FineForOverdueBooks\bin\Debug\net8.0-windows\FineForOverdueBooks.runtimeconfig.json
+C:\Users\landn\source\repos\FineForOverdueBooks\FineForOverdueBooks\bin\Debug\net8.0-windows\FineForOverdueBooks.dll
+C:\Users\landn\source\repos\FineForOverdueBooks\FineForOverdueBooks\bin\Debug\net8.0-windows\FineForOverdueBooks.pdb
+C:\Users\landn\source\repos\FineForOverdueBooks\FineForOverdueBooks\obj\Debug\net8.0-windows\FineForOverdueBooks.Form1.resources
+C:\Users\landn\source\repos\FineForOverdueBooks\FineForOverdueBooks\obj\Debug\net8.0-windows\FineForOverdueBooks.csproj.GenerateResource.cache
+C:\Users\landn\source\repos\FineForOverdueBooks\FineForOverdueBooks\obj\Debug\net8.0-windows\FineForOverdueBooks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\landn\source\repos\FineForOverdueBooks\FineForOverdueBooks\obj\Debug\net8.0-windows\FineForOverdueBooks.AssemblyInfoInputs.cache
+C:\Users\landn\source\repos\FineForOverdueBooks\FineForOverdueBooks\obj\Debug\net8.0-windows\FineForOverdueBooks.AssemblyInfo.cs
+C:\Users\landn\source\repos\FineForOverdueBooks\FineForOverdueBooks\obj\Debug\net8.0-windows\FineForOverdueBooks.csproj.CoreCompileInputs.cache
+C:\Users\landn\source\repos\FineForOverdueBooks\FineForOverdueBooks\obj\Debug\net8.0-windows\FineForOverdueBooks.dll
+C:\Users\landn\source\repos\FineForOverdueBooks\FineForOverdueBooks\obj\Debug\net8.0-windows\refint\FineForOverdueBooks.dll
+C:\Users\landn\source\repos\FineForOverdueBooks\FineForOverdueBooks\obj\Debug\net8.0-windows\FineForOverdueBooks.pdb
+C:\Users\landn\source\repos\FineForOverdueBooks\FineForOverdueBooks\obj\Debug\net8.0-windows\FineForOverdueBooks.genruntimeconfig.cache
+C:\Users\landn\source\repos\FineForOverdueBooks\FineForOverdueBooks\obj\Debug\net8.0-windows\ref\FineForOverdueBooks.dll
