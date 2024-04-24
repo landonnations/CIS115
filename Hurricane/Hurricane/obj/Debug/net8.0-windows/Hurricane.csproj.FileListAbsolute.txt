@@ -1,0 +1,17 @@
+C:\Users\landn\source\repos\Hurricane\Hurricane\bin\Debug\net8.0-windows\Hurricane.exe
+C:\Users\landn\source\repos\Hurricane\Hurricane\bin\Debug\net8.0-windows\Hurricane.deps.json
+C:\Users\landn\source\repos\Hurricane\Hurricane\bin\Debug\net8.0-windows\Hurricane.runtimeconfig.json
+C:\Users\landn\source\repos\Hurricane\Hurricane\bin\Debug\net8.0-windows\Hurricane.dll
+C:\Users\landn\source\repos\Hurricane\Hurricane\bin\Debug\net8.0-windows\Hurricane.pdb
+C:\Users\landn\source\repos\Hurricane\Hurricane\obj\Debug\net8.0-windows\Hurricane.Form1.resources
+C:\Users\landn\source\repos\Hurricane\Hurricane\obj\Debug\net8.0-windows\Hurricane.Properties.Resources.resources
+C:\Users\landn\source\repos\Hurricane\Hurricane\obj\Debug\net8.0-windows\Hurricane.csproj.GenerateResource.cache
+C:\Users\landn\source\repos\Hurricane\Hurricane\obj\Debug\net8.0-windows\Hurricane.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\landn\source\repos\Hurricane\Hurricane\obj\Debug\net8.0-windows\Hurricane.AssemblyInfoInputs.cache
+C:\Users\landn\source\repos\Hurricane\Hurricane\obj\Debug\net8.0-windows\Hurricane.AssemblyInfo.cs
+C:\Users\landn\source\repos\Hurricane\Hurricane\obj\Debug\net8.0-windows\Hurricane.csproj.CoreCompileInputs.cache
+C:\Users\landn\source\repos\Hurricane\Hurricane\obj\Debug\net8.0-windows\Hurricane.dll
+C:\Users\landn\source\repos\Hurricane\Hurricane\obj\Debug\net8.0-windows\refint\Hurricane.dll
+C:\Users\landn\source\repos\Hurricane\Hurricane\obj\Debug\net8.0-windows\Hurricane.pdb
+C:\Users\landn\source\repos\Hurricane\Hurricane\obj\Debug\net8.0-windows\Hurricane.genruntimeconfig.cache
+C:\Users\landn\source\repos\Hurricane\Hurricane\obj\Debug\net8.0-windows\ref\Hurricane.dll
