@@ -1,0 +1,17 @@
+C:\Users\landn\source\repos\MoveEstimatorProject\MoveEstimatorProject\bin\Debug\net8.0-windows\MoveEstimatorProject.exe
+C:\Users\landn\source\repos\MoveEstimatorProject\MoveEstimatorProject\bin\Debug\net8.0-windows\MoveEstimatorProject.deps.json
+C:\Users\landn\source\repos\MoveEstimatorProject\MoveEstimatorProject\bin\Debug\net8.0-windows\MoveEstimatorProject.runtimeconfig.json
+C:\Users\landn\source\repos\MoveEstimatorProject\MoveEstimatorProject\bin\Debug\net8.0-windows\MoveEstimatorProject.dll
+C:\Users\landn\source\repos\MoveEstimatorProject\MoveEstimatorProject\bin\Debug\net8.0-windows\MoveEstimatorProject.pdb
+C:\Users\landn\source\repos\MoveEstimatorProject\MoveEstimatorProject\obj\Debug\net8.0-windows\MoveEstimatorProject.Form1.resources
+C:\Users\landn\source\repos\MoveEstimatorProject\MoveEstimatorProject\obj\Debug\net8.0-windows\MoveEstimatorProject.csproj.GenerateResource.cache
+C:\Users\landn\source\repos\MoveEstimatorProject\MoveEstimatorProject\obj\Debug\net8.0-windows\MoveEstimatorProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\landn\source\repos\MoveEstimatorProject\MoveEstimatorProject\obj\Debug\net8.0-windows\MoveEstimatorProject.AssemblyInfoInputs.cache
+C:\Users\landn\source\repos\MoveEstimatorProject\MoveEstimatorProject\obj\Debug\net8.0-windows\MoveEstimatorProject.AssemblyInfo.cs
+C:\Users\landn\source\repos\MoveEstimatorProject\MoveEstimatorProject\obj\Debug\net8.0-windows\MoveEstimatorProject.csproj.CoreCompileInputs.cache
+C:\Users\landn\source\repos\MoveEstimatorProject\MoveEstimatorProject\obj\Debug\net8.0-windows\MoveEstimatorProject.dll
+C:\Users\landn\source\repos\MoveEstimatorProject\MoveEstimatorProject\obj\Debug\net8.0-windows\refint\MoveEstimatorProject.dll
+C:\Users\landn\source\repos\MoveEstimatorProject\MoveEstimatorProject\obj\Debug\net8.0-windows\MoveEstimatorProject.pdb
+C:\Users\landn\source\repos\MoveEstimatorProject\MoveEstimatorProject\obj\Debug\net8.0-windows\MoveEstimatorProject.genruntimeconfig.cache
+C:\Users\landn\source\repos\MoveEstimatorProject\MoveEstimatorProject\obj\Debug\net8.0-windows\ref\MoveEstimatorProject.dll
+C:\Users\landn\source\repos\MoveEstimatorProject\MoveEstimatorProject\obj\Debug\net8.0-windows\MoveEstimatorProject.Properties.Resources.resources
