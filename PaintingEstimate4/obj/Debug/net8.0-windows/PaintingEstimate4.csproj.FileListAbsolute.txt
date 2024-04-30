@@ -1,0 +1,16 @@
+C:\Users\landn\source\repos\PaintingEstimate4\PaintingEstimate4\bin\Debug\net8.0-windows\PaintingEstimate4.exe
+C:\Users\landn\source\repos\PaintingEstimate4\PaintingEstimate4\bin\Debug\net8.0-windows\PaintingEstimate4.deps.json
+C:\Users\landn\source\repos\PaintingEstimate4\PaintingEstimate4\bin\Debug\net8.0-windows\PaintingEstimate4.runtimeconfig.json
+C:\Users\landn\source\repos\PaintingEstimate4\PaintingEstimate4\bin\Debug\net8.0-windows\PaintingEstimate4.dll
+C:\Users\landn\source\repos\PaintingEstimate4\PaintingEstimate4\bin\Debug\net8.0-windows\PaintingEstimate4.pdb
+C:\Users\landn\source\repos\PaintingEstimate4\PaintingEstimate4\obj\Debug\net8.0-windows\PaintingEstimate4.Form1.resources
+C:\Users\landn\source\repos\PaintingEstimate4\PaintingEstimate4\obj\Debug\net8.0-windows\PaintingEstimate4.csproj.GenerateResource.cache
+C:\Users\landn\source\repos\PaintingEstimate4\PaintingEstimate4\obj\Debug\net8.0-windows\PaintingEstimate4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\landn\source\repos\PaintingEstimate4\PaintingEstimate4\obj\Debug\net8.0-windows\PaintingEstimate4.AssemblyInfoInputs.cache
+C:\Users\landn\source\repos\PaintingEstimate4\PaintingEstimate4\obj\Debug\net8.0-windows\PaintingEstimate4.AssemblyInfo.cs
+C:\Users\landn\source\repos\PaintingEstimate4\PaintingEstimate4\obj\Debug\net8.0-windows\PaintingEstimate4.csproj.CoreCompileInputs.cache
+C:\Users\landn\source\repos\PaintingEstimate4\PaintingEstimate4\obj\Debug\net8.0-windows\PaintingEstimate4.dll
+C:\Users\landn\source\repos\PaintingEstimate4\PaintingEstimate4\obj\Debug\net8.0-windows\refint\PaintingEstimate4.dll
+C:\Users\landn\source\repos\PaintingEstimate4\PaintingEstimate4\obj\Debug\net8.0-windows\PaintingEstimate4.pdb
+C:\Users\landn\source\repos\PaintingEstimate4\PaintingEstimate4\obj\Debug\net8.0-windows\PaintingEstimate4.genruntimeconfig.cache
+C:\Users\landn\source\repos\PaintingEstimate4\PaintingEstimate4\obj\Debug\net8.0-windows\ref\PaintingEstimate4.dll
