@@ -1,0 +1,17 @@
+C:\Users\landn\source\repos\RavensStartingLineup2024\RavensStartingLineup2024\bin\Debug\net8.0-windows\RavensStartingLineup2024.exe
+C:\Users\landn\source\repos\RavensStartingLineup2024\RavensStartingLineup2024\bin\Debug\net8.0-windows\RavensStartingLineup2024.deps.json
+C:\Users\landn\source\repos\RavensStartingLineup2024\RavensStartingLineup2024\bin\Debug\net8.0-windows\RavensStartingLineup2024.runtimeconfig.json
+C:\Users\landn\source\repos\RavensStartingLineup2024\RavensStartingLineup2024\bin\Debug\net8.0-windows\RavensStartingLineup2024.dll
+C:\Users\landn\source\repos\RavensStartingLineup2024\RavensStartingLineup2024\bin\Debug\net8.0-windows\RavensStartingLineup2024.pdb
+C:\Users\landn\source\repos\RavensStartingLineup2024\RavensStartingLineup2024\obj\Debug\net8.0-windows\RavensStartingLineup2024.Form1.resources
+C:\Users\landn\source\repos\RavensStartingLineup2024\RavensStartingLineup2024\obj\Debug\net8.0-windows\RavensStartingLineup2024.csproj.GenerateResource.cache
+C:\Users\landn\source\repos\RavensStartingLineup2024\RavensStartingLineup2024\obj\Debug\net8.0-windows\RavensStartingLineup2024.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\landn\source\repos\RavensStartingLineup2024\RavensStartingLineup2024\obj\Debug\net8.0-windows\RavensStartingLineup2024.AssemblyInfoInputs.cache
+C:\Users\landn\source\repos\RavensStartingLineup2024\RavensStartingLineup2024\obj\Debug\net8.0-windows\RavensStartingLineup2024.AssemblyInfo.cs
+C:\Users\landn\source\repos\RavensStartingLineup2024\RavensStartingLineup2024\obj\Debug\net8.0-windows\RavensStartingLineup2024.csproj.CoreCompileInputs.cache
+C:\Users\landn\source\repos\RavensStartingLineup2024\RavensStartingLineup2024\obj\Debug\net8.0-windows\RavensStartingLineup2024.dll
+C:\Users\landn\source\repos\RavensStartingLineup2024\RavensStartingLineup2024\obj\Debug\net8.0-windows\refint\RavensStartingLineup2024.dll
+C:\Users\landn\source\repos\RavensStartingLineup2024\RavensStartingLineup2024\obj\Debug\net8.0-windows\RavensStartingLineup2024.pdb
+C:\Users\landn\source\repos\RavensStartingLineup2024\RavensStartingLineup2024\obj\Debug\net8.0-windows\RavensStartingLineup2024.genruntimeconfig.cache
+C:\Users\landn\source\repos\RavensStartingLineup2024\RavensStartingLineup2024\obj\Debug\net8.0-windows\ref\RavensStartingLineup2024.dll
+C:\Users\landn\source\repos\RavensStartingLineup2024\RavensStartingLineup2024\obj\Debug\net8.0-windows\RavensStartingLineup2024.Properties.Resources.resources
